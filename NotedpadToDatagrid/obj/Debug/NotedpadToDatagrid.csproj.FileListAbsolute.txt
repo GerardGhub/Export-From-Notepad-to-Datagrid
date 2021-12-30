@@ -1,0 +1,35 @@
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe.config
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Form1.resources
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.csproj.GenerateResource.Cache
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.pdb
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.exe
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.pdb
+C:\Users\philip.calugcugan\Desktop\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.csprojResolveAssemblyReference.cache
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe.config
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.exe
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.pdb
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.pdb
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Form1.resources
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Properties.Resources.resources
+C:\Users\philip.calugcugan\Desktop\System Dev\NotedpadToDatagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.csproj.GenerateResource.Cache
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe.config
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.exe
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.pdb
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.pdb
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.csprojResolveAssemblyReference.cache
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Form1.resources
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Properties.Resources.resources
+C:\Users\gerard.singian\Desktop\UP TO DATE SYSTEMS&MODULES\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.csproj.GenerateResource.Cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe.config
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.exe
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\bin\Debug\NotedpadToDatagrid.pdb
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.csprojResolveAssemblyReference.cache
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Form1.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.Properties.Resources.resources
+C:\Users\Gerard Singian Pogi\Desktop\wedevelop\UP TO DATE SYSTEMS&MODULES\Export From Notepad to Datagrid\NotedpadToDatagrid\obj\Debug\NotedpadToDatagrid.csproj.GenerateResource.Cache
